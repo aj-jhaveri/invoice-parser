@@ -30,8 +30,8 @@ Follow these steps to get the project running on your local machine.
 First, clone this repository to your local machine.
 
 ```bash
-# Replace <your-github-username> with your actual GitHub username
-git clone https://github.com/<your-github-username>/invoice-parser.git
+
+git clone https://github.com/aj-jhaveri/invoice-parser.git
 cd invoice-parser
 ```
 
